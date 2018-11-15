@@ -1,11 +1,6 @@
 <html>
-
 <head>
-
-<title>
-
 <style>
-
 body {
 	    border-style:dotted;
 	    border-color:#5959de;
@@ -14,12 +9,8 @@ body {
       }
      }
    </style>
-
-</title>
-
 </head>
-
 <body>
 <p> HI!!!</p>
-
+</body>
 </html>
