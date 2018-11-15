@@ -2,8 +2,19 @@
 
 <title>
 
+<style>
+
+body {
+	    border-style:dotted;
+	    border-color:#5959de;
+	    border-width:thick;
+	    Background-color: #e0b8eb;
+      }
+     }
+   </style>
 
 </title>
+
 <head>
 
 </head>
